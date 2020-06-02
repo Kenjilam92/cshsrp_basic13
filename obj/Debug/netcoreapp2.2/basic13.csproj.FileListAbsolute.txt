@@ -1,0 +1,11 @@
+/Users/kenjilam/Coding/C#/fundamental/basic13/bin/Debug/netcoreapp2.2/basic13.deps.json
+/Users/kenjilam/Coding/C#/fundamental/basic13/bin/Debug/netcoreapp2.2/basic13.runtimeconfig.json
+/Users/kenjilam/Coding/C#/fundamental/basic13/bin/Debug/netcoreapp2.2/basic13.runtimeconfig.dev.json
+/Users/kenjilam/Coding/C#/fundamental/basic13/bin/Debug/netcoreapp2.2/basic13.dll
+/Users/kenjilam/Coding/C#/fundamental/basic13/bin/Debug/netcoreapp2.2/basic13.pdb
+/Users/kenjilam/Coding/C#/fundamental/basic13/obj/Debug/netcoreapp2.2/basic13.csprojAssemblyReference.cache
+/Users/kenjilam/Coding/C#/fundamental/basic13/obj/Debug/netcoreapp2.2/basic13.csproj.CoreCompileInputs.cache
+/Users/kenjilam/Coding/C#/fundamental/basic13/obj/Debug/netcoreapp2.2/basic13.AssemblyInfoInputs.cache
+/Users/kenjilam/Coding/C#/fundamental/basic13/obj/Debug/netcoreapp2.2/basic13.AssemblyInfo.cs
+/Users/kenjilam/Coding/C#/fundamental/basic13/obj/Debug/netcoreapp2.2/basic13.dll
+/Users/kenjilam/Coding/C#/fundamental/basic13/obj/Debug/netcoreapp2.2/basic13.pdb
